@@ -1,7 +1,7 @@
 关于web-debug-cli
 ==========
 ## 依赖包参考腾讯大佬写的依赖包封装了 三个类库编写自定义扩展插件
--   [参考地址](https://www.npmjs.com/package/web-debug-cli)
+-   [参考地址](https://www.npmjs.com/package/spy-debugger)
 
 
 安装
