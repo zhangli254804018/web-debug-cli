@@ -1,6 +1,6 @@
 {
   "name": "web-debug-cli",
-  "version": "1.2.1",
+  "version": "1.2.21",
   "description": "web page one-stop remote network debugger",
   "main": "lib/index.js",
   "scripts": {
