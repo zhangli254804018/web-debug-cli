@@ -77,6 +77,16 @@ web-debug-cli -b false
 web-debug-cli -c true
 ```
 
+
+
+#### 是否允许weinre断点js脚本
+>  
+(默认： false)
+```
+web-debug-cli -d true
+```
+
+
 更多
 ------------
 - 修复`weinre`在`node.js` V7版本会崩溃的bug
