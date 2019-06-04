@@ -28,7 +28,7 @@
 
  /**
   * fixed chrome bug, add ArrowUp, ArrowDown, ArrowRight
-  * by wuchangming
+  * by zhangli254804018
   */
 
 

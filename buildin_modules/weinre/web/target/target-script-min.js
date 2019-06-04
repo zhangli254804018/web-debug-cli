@@ -18,12 +18,12 @@
  */
 
 /**
- * Nov 04 2016, wuchangming
+ * Nov 04 2016, zhangli254804018
  * fixed console.log(null) or console.log(undefined) occur error bug!
  */
 
 /**
- *  Dec 11 2016, wuchangming
+ *  Dec 11 2016, zhangli254804018
  *  add a global consoleforspydebugger to enhance `console` for prevent `log message` lost
  *  before Document 'load' and 'DOMContentLoaded'.
  */
