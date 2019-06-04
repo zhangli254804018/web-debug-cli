@@ -81,7 +81,7 @@ web-debug-cli -c true
 
 
 
-#### 是否允许weinre断点js脚本
+#### 是否允许weinre日志打印报错信息debuglog
 >  
 (默认： false)
 ```
