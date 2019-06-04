@@ -1,7 +1,8 @@
 关于web-debug-cli
 ==========
 ### 依赖包参考前端大佬写的依赖包封装了 三个类库编写自定义扩展插件
--   [参考地址](https://www.npmjs.com/package/spy-debugger)
+[参考地址](https://www.npmjs.com/package/spy-debugger)
+-   
 [![npm](https://img.shields.io/npm/v/web-debug-cli.svg)](https://www.npmjs.com/package/web-debug-cli)
 [![npm](https://img.shields.io/npm/dt/web-debug-cli.svg)](https://www.npmjs.com/package/web-debug-cli)
 [![Build Status](https://travis-ci.org/zhangli254804018/web-debug-cli.svg?branch=master)](https://travis-ci.org/zhangli254804018/web-debug-cli)  
